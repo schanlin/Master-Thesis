@@ -1,8 +1,8 @@
 # Master-Thesis
-##Anhang A - Fragenkatalog
+Anhang A - Fragenkatalog
 
-##Anhang B - Datenschutzdokumente
+Anhang B - Datenschutzdokumente
 
-##Anhang C - Transkripte
+Anhang C - Transkripte
 
-##Anhang D - Analyse
+Anhang D - Analyse
